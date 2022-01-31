@@ -12,7 +12,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 Do Not Abuse 🥺, Better Use Public Leech Groups
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Omkar47/AutoLeecher)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.herokucdn.com/deploy/)
 
 
 ### The Eas(iest) Way
